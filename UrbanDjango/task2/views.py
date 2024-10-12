@@ -7,4 +7,4 @@ def func_page(request):
 
 
 # class ClassPage(TemplateView):
-#     template_name = 'class_template.html'
+#     template_name = 'second_task/class_template.html'
